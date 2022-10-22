@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1666399078 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo\aerolinea.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"aerolinea.h"
+
+1666389602 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo\destino.c
+
+1666390165 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo\fecha.c
+
+1666399001 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo\mibiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"miBiblioteca.h"
+
+1666399480 d:\programacion 1 2022\2 cuatri\parcial 1 labo\mibiblioteca.h
+
+1666398979 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1666399089 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo\avion.c
+	"avion.h"
+
+1666399014 d:\programacion 1 2022\2 cuatri\parcial 1 labo\avion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"miBiblioteca.h"
+	"aerolinea.h"
+	"tipo.h"
+
+1666399099 source:d:\programacion 1 2022\2 cuatri\parcial 1 labo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"miBiblioteca.h"
+	"avion.h"
+
+1666395457 d:\programacion 1 2022\2 cuatri\parcial 1 labo\aerolinea.h
+
+1666391313 d:\programacion 1 2022\2 cuatri\parcial 1 labo\tipo.h
+
